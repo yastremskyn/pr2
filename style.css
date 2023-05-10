@@ -50,7 +50,7 @@ tfoot th {
     text-align: right;
 }
 thead, tfoot {
-    background: url("/img/leopae.jpg");
+    background: url("img/leopae.jpg");
     color: white;
     text-shadow: 1px 1px 1px black;
 }
